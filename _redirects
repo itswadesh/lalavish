@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://lalavish.netlify.com/* https://www.lalavish.in/:splat 301!
